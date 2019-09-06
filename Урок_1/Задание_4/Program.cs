@@ -40,6 +40,9 @@ namespace Задание_4
             Console.WriteLine();
 
             Console.ReadKey();
+            qwe
+            rty
+            rty
         }
     }
 }
