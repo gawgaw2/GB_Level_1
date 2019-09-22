@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Управление общими сведениями о сборке осуществляется с помощью 
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("Задание_3")]
+[assembly: AssemblyTitle("Удвоитель")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Задание_3")]
+[assembly: AssemblyProduct("Удвоитель")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("13db3563-6142-4a0b-9b4a-fe10aeefba8b")]
+[assembly: Guid("859a565e-d89e-40f7-86c0-2daaa260cc26")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //
